@@ -1,4 +1,4 @@
-# OBSS AI Image Captioning Challenge - 16th Place Solution
+# OBSS AI Image Captioning Challenge
 
 ## Achievement
 **16th Place** out of all participants in the OBSS Internship Competition on Kaggle
